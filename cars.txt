@@ -1,0 +1,11 @@
+2019 Honda Civic Sedan 20.50
+2019 Nissan GTR Coupe 199.99
+2018 Dodge Caravan Mini-Van 15.10
+2017 Tesla Model3 Sedan 35.75
+2017 Toyota RAV4 SUV 38.12
+2016 Ford F150 Truck 55.55
+2016 Ford Mustang Convertible 23.45
+2015 Subaru Forester SUV 25.50
+2014 Toyota Corolla Sedan 0.4
+2014 Honda Fit Sedan 1.5
+2014 Nissan Quest Mini-Van 13.13
